@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Raumod",
+  "name": "RAU Mod",
+  "description": "The RAU Mod.",
+  "version": 1.7.2,
+  "mcversion": 1.8,
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kbz"],
+  "credits": "Forge for making this API, Kbz for making this mod, and P0ke for helping!",
+  "logoFile": "src/main/assets/RAU.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
